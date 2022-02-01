@@ -1,5 +1,3 @@
-# ScienceWorld
-My first time
 
 <!DOCTYPE html>
 <html lang="en">
